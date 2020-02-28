@@ -50,7 +50,6 @@ h2 {
 
 
 h1 {
-  color: #0D2C40;
   font-weight: 400;
   font-size: 45px;
 }
@@ -60,9 +59,4 @@ h2 {
   color: #0D2C40;
   font-weight: 600;
   font-size: 20px
-}
-
-main {
-  width: 850px;
-  margin: 25px auto;
 }
