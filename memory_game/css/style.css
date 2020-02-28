@@ -6,6 +6,10 @@ html {
 body {
   margin: 0 auto;
   text-align: center;
+header {
+  background-color: #F15B31
+  color: #FFF;
+  padding: 30px 20px;
 }
 
 nav>a {
