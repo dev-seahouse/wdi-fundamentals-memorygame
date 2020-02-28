@@ -4,8 +4,9 @@ html {
 }
 
 body {
-  margin: 0 auto;
-  text-align: center;
+  margin: 0;
+}
+
 header {
   background-color: #F15B31
   color: #FFF;
