@@ -29,7 +29,10 @@ p {
   font-size: 18px;
 }
 
-h1,h2 {
+h1 {
+  margin: 0;
+}
+
   letter-spacing: 1px;
   text-transform: uppercase;
 }
