@@ -76,3 +76,44 @@ img {
   margin-left: 8px;
   margin-right:  8px;
 }
+
+footer {
+  text-transform: uppercase;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #0D2C40;
+  color:#FFF;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+
+.copyright {
+  float: left;
+}
+
+.message {
+  float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.social {
+  padding: 17px;
+  text-align: left;
+}
+
+.social a {
+  display: inline-block;
+  margin-right: 1px;
+  padding: 5px;
+  cursor: pointer;
+}
+
