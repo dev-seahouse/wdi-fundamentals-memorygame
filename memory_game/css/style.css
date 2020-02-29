@@ -117,3 +117,8 @@ font-size: 0;
   cursor: pointer;
 }
 
+.name {
+  color: #F15B31;
+  font-weight: 700;
+}
+
