@@ -26,6 +26,7 @@ nav>a {
   font-size: 18px;
   font-weight: 600;
   text-decoration: none;
+  border-bottom: 2px solid transparent;
 }
 
 a {
@@ -33,6 +34,10 @@ a {
   margin-right: 20px;
   color: #FFF;
   letter-spacing: 1px;
+}
+
+a:hover {
+  border-color: white;
 }
 
 p {
@@ -72,9 +77,9 @@ main {
 }
 
 img {
-  margin-top:  40px;
+  margin-top: 40px;
   margin-left: 8px;
-  margin-right:  8px;
+  margin-right: 8px;
 }
 
 footer {
@@ -82,7 +87,7 @@ footer {
   padding-left: 20px;
   padding-right: 20px;
   background-color: #0D2C40;
-  color:#FFF;
+  color: #FFF;
   font-size: 14px;
   letter-spacing: 0.08em;
   font-weight: 500;
@@ -97,12 +102,12 @@ footer {
 }
 
 .clearfix:after {
-visibility: hidden;
-display: block;
-content: " ";
-clear: both;
-height: 0;
-font-size: 0;
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
 }
 
 .social {
@@ -121,4 +126,3 @@ font-size: 0;
   color: #F15B31;
   font-weight: 700;
 }
-
