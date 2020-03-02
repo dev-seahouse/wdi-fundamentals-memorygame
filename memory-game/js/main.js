@@ -1,12 +1,8 @@
 const queen = "queen";
 const king = "king";
 
-let cardOne = queen;
-let cardTwo = queen;
-let cardThree = king;
-let cardFour = king;
+let cards = [queen, queen, king, king];
+let CardsInPlay = [];
 
 
-console.log(`User flipped ${cardOne}`);
-console.log(`User flipped ${cardTwo}`);
 
